@@ -22,7 +22,7 @@ const NavigateCard = () => {
         backgroundColor: "white",
       }}
     >
-      <View>
+      <View style={{}}>
         <Text style={tw`text-center font-semibold py-5 text-lg`}>
           Good Morning, User!
         </Text>
